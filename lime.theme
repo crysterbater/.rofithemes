@@ -1,0 +1,15 @@
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! User: DP
+! Copyright: DP
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-window: #16141C, #B39BBA, #B39BBA
+rofi.color-normal: #16141C, #ffffff, #16141C, #86DC8E, #131313
+rofi.color-active: #141021, #c05c47, #312842, #c05c47, #ffeefc
+rofi.color-urgent: #141021, #e4b226, #312842, #e4b226, #ffeefc
+rofi.separator-style:   solid
+rofi.width: 800
+rofi.padding: 50
+rofi.font: Monaco 12
+rofi.bw: 2

@@ -1,0 +1,11 @@
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! User: DP
+! Copyright: DP
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-window: #141414, #121212, #718ABD
+rofi.color-normal: argb:0000000, #d8dee9, argb:0000000, #E51C32, #ffffff
+rofi.color-active: argb:0000000, #6699cc, argb:0000000, #86d0d1, #1e2329
+rofi.color-urgent: argb:0000000, #fdbd93, argb:0000000, #fdbd93, #1b2b34
+rofi.separator-style:   solid

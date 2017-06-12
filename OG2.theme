@@ -1,0 +1,16 @@
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! User: OG2
+! Copyright: DP
+! ------------------------------------------------------------------------------
+! "Color scheme for normal row" Set from: File
+rofi.color-normal: argb:0000000, #00ffff, argb:0000000, #00ffff, #1b2b34
+! "Color scheme for urgent row" Set from: File
+rofi.color-urgent: argb:0000000, #e12a36, argb:0000000, #dd2a4b, #1b2b34
+! "Color scheme for active row" Set from: File
+rofi.color-active: argb:0000000, #6699cc, argb:0000000, #6699cc, #1b2b34
+! "Color scheme window" Set from: File
+rofi.color-window: #222222, #222222, #222222
+! "Separator style (none, dash, solid)" Set from: XResources
+rofi.separator-style:                none
+
